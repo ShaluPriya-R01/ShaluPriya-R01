@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shalu Priya</h1>
 <h3 align="center">I am an enthusiastic learner in the field of data science.</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@shalupriyaravishankar](https://medium.com/@shalupriyaravishankar)
+- 📝 I  write articles on [https://medium.com/@shalupriyaravishankar](https://medium.com/@shalupriyaravishankar)
 
-- 📫 How to reach me **shalupriyaravishankar@gmail.com**
+- 📫 Reach me **shalupriyaravishankar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14HxyApboLIxl4HKXpXvQLqeZ0ff8fVio/view?usp=sharing](https://drive.google.com/file/d/14HxyApboLIxl4HKXpXvQLqeZ0ff8fVio/view?usp=sharing)
+- 📄 Know more about me [https://drive.google.com/file/d/14HxyApboLIxl4HKXpXvQLqeZ0ff8fVio/view?usp=sharing](https://drive.google.com/file/d/14HxyApboLIxl4HKXpXvQLqeZ0ff8fVio/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
