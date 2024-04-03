@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shalu priya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalu priya" height="30" width="40" /></a>
-<a href="https://kaggle.com/shalu priya ravishankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shalu priya ravishankar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shalu-priya-560b19241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalu priya" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shalupriyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shalu priya ravishankar" height="30" width="40" /></a>
 <a href="https://medium.com/@shalupriyaravishankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shalupriyaravishankar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shalu priya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shalu priya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shalupriyaravishankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shalupriyaravishankar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/shalupriyaravis1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shalu priya" height="30" width="40" /></a>
+<a href="https://leetcode.com/shalupriyaravishankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shalupriyaravishankar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
