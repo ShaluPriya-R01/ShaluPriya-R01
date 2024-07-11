@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalu Priya</h1>
 <h3 align="center">I am an enthusiastic learner in the field of data science.</h3>
 
-- 📝 I  write articles on [https://medium.com/@shalupriyaravishankar](https://medium.com/@shalupriyaravishankar)
+- 📝 I  write blogs on [https://medium.com/@shalupriyaravishankar](https://medium.com/@shalupriyaravishankar)
 
 - 📫 Reach me **shalupriyaravishankar@gmail.com**
 
